@@ -28,5 +28,5 @@ Triple Toggle is a 3-State Toggle Switch UI Component Concept
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 
-##Developed By
+##Designed and Developed By
 Derek Knox | Braindrop Labs
