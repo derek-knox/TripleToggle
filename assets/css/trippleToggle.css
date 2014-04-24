@@ -1,0 +1,41 @@
+#tripleToggleContainer
+{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    padding: 6px;
+    margin: 20px;
+    background-image: url("../images/triple-toggle-color-rings.png");
+    background-position:50% 50%;
+    background-size: cover;
+}
+
+#tripleToggle
+{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+#toggleSwitch
+{
+    width: 60%;
+    height: 60%;
+    position: absolute;
+}
+
+.quadrant
+{
+    width: 50%;
+    height: 50%;
+    float: left;
+    cursor: pointer;
+}
+
+#exampleLabel
+{
+    width: 100px;
+    margin: 20px;
+    font-size: 12px;
+    text-align: center;
+}
