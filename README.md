@@ -2,7 +2,7 @@
 
 Triple Toggle is a 3-State Toggle Switch UI Component Concept
 
-View an interactive sample at www.braindroplabs.com/code/tripletoggle.
+View an interactive sample at www.derekknox.com/lab/tripletoggle/.
 
 ![Image](_assets/images/triple-toggle-example.png)
 
