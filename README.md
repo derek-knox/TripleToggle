@@ -32,3 +32,5 @@ View an interactive sample at www.derekknox.com/lab/tripletoggle/.
 
 ##Designed and Developed By
 Derek Knox | Braindrop Labs
+
+[@derekknox](https://twitter.com/derekknox)
