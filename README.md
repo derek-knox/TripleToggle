@@ -1,4 +1,4 @@
-#Triple Toggle
+# Triple Toggle
 
 Triple Toggle is a 3-State Toggle Switch UI Component Concept
 
@@ -6,7 +6,7 @@ View an interactive sample at www.derekknox.com/lab/tripletoggle/.
 
 ![Image](_assets/images/triple-toggle-example.png)
 
-##License
+## License
 	
 	The MIT License (MIT)
 
@@ -30,7 +30,7 @@ View an interactive sample at www.derekknox.com/lab/tripletoggle/.
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.
 
-##Designed and Developed By
+## Designed and Developed By
 Derek Knox | Braindrop Labs
 
 [@derekknox](https://twitter.com/derekknox)
